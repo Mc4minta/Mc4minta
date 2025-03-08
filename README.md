@@ -1,6 +1,6 @@
 Hi everyone, i'm just a person who like to learn new things.
 
-Currently studying at Computer Enginnering at KMUTT 🐜
+Will be studying at Computer Enginnering at KMUTT 🐜 in 2025
 
 Interests: Cyber Security, CTF , Hackathon
 
