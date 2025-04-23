@@ -4,6 +4,7 @@ Will be studying at Computer Enginnering at KMUTT 🐜 in 2025
 
 Interests: Cyber Security, CTF , Hackathon
 
+Currently learning Flutter?...
 <!---
 Mc4minta/Mc4minta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
