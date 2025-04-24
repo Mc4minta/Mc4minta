@@ -1,8 +1,8 @@
 Hi everyone, i'm just a person who like to learn new things.
 
-Will be studying at Computer Enginnering at KMUTT 🐜 in 2025
+Will be studying Computer Engineering at KMUTT 🐜 in 2025
 
-Interests: Cyber Security, CTF , Hackathon
+Interests: Cybersecurity, CTF , Hackathon
 
 <!---
 Mc4minta/Mc4minta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
