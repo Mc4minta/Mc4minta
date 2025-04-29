@@ -1,11 +1,14 @@
-Hi everyone, i'm just a person who like to learn new things.
+# About me
+Hi I'm Min, I kinda build for fun and love CTF.
 
 Will be studying Computer Engineering at KMUTT 🐜 in 2025
+
 Currently trying to learn development
 
 Interests: Cybersecurity, CTF
 
-<!---
-Mc4minta/Mc4minta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+![ProgLang](https://skillicons.dev/icons?i=py,cpp,c,cs,dart)
+![Framework](https://skillicons.dev/icons?i=flutter)
+![Tools](https://skillicons.dev/icons?i=kali,linux,unity,arduino)
+![Database](https://skillicons.dev/icons?i=firebase,supabase)
