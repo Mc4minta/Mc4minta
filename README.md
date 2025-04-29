@@ -8,7 +8,7 @@ Currently trying to learn development
 Interests: Cybersecurity, CTF
 
 ## Skills
-![ProgLang](https://skillicons.dev/icons?i=py,cpp,c,cs,dart)
+![ProgLang](https://skillicons.dev/icons?i=py,cpp,c,cs,dart,html)
 ![Framework](https://skillicons.dev/icons?i=flutter)
 ![Tools](https://skillicons.dev/icons?i=kali,linux,unity,arduino)
 ![Database](https://skillicons.dev/icons?i=firebase,supabase)
