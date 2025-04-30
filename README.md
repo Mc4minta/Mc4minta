@@ -1,5 +1,5 @@
 # About me
-Hi I'm Min, I kinda build for fun and love CTF.
+Hi I'm Min, I build for fun and love CTF.
 
 Will be studying Computer Engineering at KMUTT 🐜 in 2025
 
