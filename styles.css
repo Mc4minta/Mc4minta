@@ -121,6 +121,12 @@ h1 {
   line-height: 1.6;
 }
 
+.detail a {
+  color: var(--text);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
 .detail + .detail {
   margin-top: 6px;
 }
