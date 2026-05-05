@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <meta
+      name="description"
+      content="Min's minimal profile page."
+    />
+    <title>Mc4minta</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="page">
+      <section class="profile-card" aria-label="Profile">
+        <button class="theme-toggle" type="button" aria-label="Toggle dark mode">
+          <span class="theme-toggle__icon" aria-hidden="true">◐</span>
+          <span class="theme-toggle__text">Dark mode</span>
+        </button>
+
+        <img
+          class="avatar"
+          src="https://github.com/Mc4minta.png"
+          alt="GitHub profile picture for Mc4minta"
+          width="128"
+          height="128"
+        />
+
+        <p class="kicker">Mc4minta</p>
+        <h1>Min</h1>
+        <p class="bio">
+          I build for fun, love CTF, and am learning development, low-level
+          work, and anything useful.
+        </p>
+
+        <p class="detail">Computer Engineering student at KMUTT.</p>
+        <p class="detail">Interests: Cybersecurity, CTF</p>
+        <p class="detail">
+          You can see my resume here:
+          <a href="https://mc4minta.github.io/resume" target="_blank" rel="noreferrer">
+            mc4minta.github.io/resume
+          </a>
+        </p>
+        <p class="detail">
+          And my blogs here:
+          <a href="https://mc4minta.pages.dev" target="_blank" rel="noreferrer">
+            mc4minta.pages.dev
+          </a>
+        </p>
+
+        <a class="github-link" href="https://github.com/Mc4minta" target="_blank" rel="noreferrer">
+          github.com/Mc4minta
+        </a>
+      </section>
+    </main>
+
+    <script>
+      const root = document.documentElement;
+      const toggle = document.querySelector(".theme-toggle");
+      const storedTheme = localStorage.getItem("theme");
+      const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+
+      function setTheme(theme) {
+        root.dataset.theme = theme;
+        localStorage.setItem("theme", theme);
+        const isDark = theme === "dark";
+        toggle.querySelector(".theme-toggle__text").textContent = isDark ? "Light mode" : "Dark mode";
+      }
+
+      setTheme(storedTheme || (prefersDark ? "dark" : "light"));
+
+      toggle.addEventListener("click", () => {
+        setTheme(root.dataset.theme === "dark" ? "light" : "dark");
+      });
+    </script>
+  </body>
+</html>
