@@ -10,6 +10,12 @@ Life is a journey for learning!!!
 
 Interests: Cybersecurity, CTF
 
+More information:
+[mc4minta.github.io](https://mc4minta.github.io)
+[My Resume](https://mc4minta.github.io/resume)
+[My Blog](https://mc4minta.pages.dev)
+
+
 ## Skills
 ![ProgLang](https://skillicons.dev/icons?i=py,cpp,c,cs,dart,html)
 ![Framework](https://skillicons.dev/icons?i=flutter)
