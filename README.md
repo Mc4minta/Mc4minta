@@ -11,6 +11,7 @@ Life is a journey for learning!!!
 Interests: Cybersecurity, CTF
 
 More information:
+
 [mc4minta.github.io](https://mc4minta.github.io)
 
 [My Resume](https://mc4minta.github.io/resume)
